@@ -1,2 +1,2 @@
 # data-melody
-Removing noise, hear the melody
+Removing noise from data, hear the melody
